@@ -23,7 +23,7 @@ The project names comes from [the cave allegory from plato](https://en.wikipedia
 
 
 ### Idea
-Image you would create an Big Bang in your computer. Simulating all atoms and all rules. Then it maybe would be possible to simulate everything. And this could possible give answers to nearly every question. Just let them answer by another simulated digital species.<br>So with simulating the start and rules of the universe everything could be possible without further work...maybe just a search task. For a question you have search in digital time and space to find the answer, which can be also a big task, but given the possible answer the work is really worth it.<br>Also just for entertainment it could be so impressive. Incredible stories of live and astronomy and everything could lead out from this.<br><br>The possibilities from a working realistic simulation are endless and I could write pages over pages what we all could learn and gain from such a technology/software. But I think it's fine for now, else you get bored.<br>The idea and motivation should be clear.
+Imagine you would create an Big Bang in your computer. Simulating all atoms and all rules. Then it maybe would be possible to simulate everything. And this could possible give answers to nearly every question. Just let them answer by another simulated digital species.<br>So with simulating the start and rules of the universe everything could be possible without further work...maybe just a search task. For a question you have search in digital time and space to find the answer, which can be also a big task, but given the possible answer the work is really worth it.<br>Also just for entertainment it could be so impressive. Incredible stories of live and astronomy and everything could lead out from this.<br><br>The possibilities from a working realistic simulation are endless and I could write pages over pages what we all could learn and gain from such a technology/software. But I think it's fine for now, else you get bored.<br>The idea and motivation should be clear.
 
 
 ### Tools
@@ -33,6 +33,14 @@ Other used tools will be added here...(FIXME)
 
 
 ### Plan
+- program accurate atoms and molecules
+- program rules of chemistry
+- program rules
+    - gravity
+    - electricity
+    - magnetism
+    - ...
+- create digital big bang 
 
 
 
