@@ -14,16 +14,21 @@ This projects tries to create an simulation of our world. Disclaimer: This is ju
 - [Plan B](#plan-b)
 
 
+<br>
+
+[Research Document](meta_knowledge.md)
+
+
 
 <img src="./cover.jpeg" align="center"></img>
 
 
 ### Project Name
-The project names comes from [the cave allegory from plato](https://en.wikipedia.org/wiki/Allegory_of_the_cave). From the wikipedia entry: "In the allegory, Plato describes people who have spent their lives chained in a cave facing a blank wall. They watch shadows projected onto the wall by objects passing in front of a fire behind them, and they give names to these shadows. The shadows are the prisoners' reality but not accurate representations of the real world. The shadows represent the fragment of reality that we can normally perceive through our senses, while the objects under the sun represent the true forms of objects that we can only perceive through reason. Three higher levels exist: natural science; deductive mathematics, geometry, and logic; and the theory of forms.". In this project I take this idea further and interpret it a bit different. Also is my goal not to escape the cave or claim that we live in a cave. I want to try to build such a "cave" in a digital way. Why? The reason is explained [here](#idea).<br>I interpret the cave as a simulated world inside of an world. (Of course this is just for this project and I don't believe that this was the original idea from plato)
+The project names comes from [the cave allegory from plato](https://en.wikipedia.org/wiki/Allegory_of_the_cave). From the wikipedia entry: "In the allegory, Plato describes people who have spent their lives chained in a cave facing a blank wall. They watch shadows projected onto the wall by objects passing in front of a fire behind them, and they give names to these shadows. The shadows are the prisoners' reality but not accurate representations of the real world. The shadows represent the fragment of reality that we can normally perceive through our senses, while the objects under the sun represent the true forms of objects that we can only perceive through reason. Three higher levels exist: natural science; deductive mathematics, geometry, and logic; and the theory of forms.". In this project I take this idea further and interpret it a bit different. Also is my goal not to escape the cave or claim that we live in a cave. I want to try to build such a "cave" in a digital way. Why? The reason is explained [here](#idea).<br>I interpret the cave as a simulated world inside of an world. It's not the real world but it works and seems to be a complete world. (Of course this is just for this project and I don't believe that this was the original idea from plato)
 
 
 ### Idea
-Imagine you would create an Big Bang in your computer. Simulating all atoms and all rules. Then it maybe would be possible to simulate everything. And this could possible give answers to nearly every question. Just let them answer by another simulated digital species.<br>So with simulating the start and rules of the universe everything could be possible without further work...maybe just a search task. For a question you have search in digital time and space to find the answer, which can be also a big task, but given the possible answer the work is really worth it.<br>Also just for entertainment it could be so impressive. Incredible stories of live and astronomy and everything could lead out from this.<br><br>The possibilities from a working realistic simulation are endless and I could write pages over pages what we all could learn and gain from such a technology/software. But I think it's fine for now, else you get bored.<br>The idea and motivation should be clear.
+Imagine you would create an Big Bang in your computer. Simulating all atoms and all rules. The key is only programming the meta elements of our universe which should lead to a realistic universe except these are complete and correct which is very claimable and the most difficult part.<br>Then it should be possible to simulate everything. And this could possible give answers to nearly every question. Just let them answer by another simulated digital species.<br>So with simulating the start and rules of the universe everything could be possible without further work...maybe just a search task. For a question you have search in digital time and space to find the answer, which can be also a big task, but given the possible answer the work is really worth it.<br>Also just for entertainment it could be so impressive. Incredible stories of live and astronomy and everything could lead out from this.<br><br>The possibilities from a working realistic simulation are endless and I could write pages over pages what we all could learn and gain from such a technology/software. But I think it's fine for now, else you get bored.<br>The idea and motivation should be clear.
 
 
 ### Tools
@@ -33,14 +38,38 @@ Other used tools will be added here...(FIXME)
 
 
 ### Plan
-- program accurate atoms and molecules
-- program rules of chemistry
-- program rules
-    - gravity
-    - electricity
-    - magnetism
-    - ...
-- create digital big bang 
+The plan is "simple". We have to program the meta elements of our universe. Means protons, electrons and these in the correct quantum way. Also energy and dark energy and dark matter.<br> So there will be no class for atoms or suns or such, these should lead from the smallest parts.<br>
+Additionaly we need to program the core rules which rules our universe. Like the lightspeed limit and the quantum measurement rules.<br>
+So first step is to make a research to find all these meta particles, all their behaviour and rules and also generel rules of the universe. Next step is to try to program them.<br>
+I know their will be still many questions to solve, like how to bring color and light and reflection into the simulation and will there really be atoms and planets and such things, but in theory these should be included by programming the meta parts of the universe.<br><br>
+Also it will be important to program the start of the simulation, the big bang which will create "the cave". Here we have to decide how many of which meta particle we include. And of course we only can simulate a ultra mini version of our universe and even that will be too big for our resources.<br>
+Furthermore it's questionable where to start the simulation. The big bang seems to be a good reference point, but it could also be thinking of simulating the universe before the big bang could be very interesting but also comes with many open questions and uncertainties.
+
+1. Research (+ [documenting these](meta_knowledge.md) + add your sources)
+    - meta particles
+    - their behaviour
+    - energy, dark energy, dark matter
+    - quantum world
+    - forces
+    - rules (also define what counts as "measurement")
+2. Programming meta particles + their behaviour (in quantum way + somehow include the measurement case)
+3. Programming energy?
+4. Programming forces
+5. Programming rules
+6. Set start point
+    - program the Big Bang
+    - (or) program the scenario before (how long before?) -> see book "Ein Universum aus Nichts"
+7. Get information and control
+    - add information output with GUI or console (How to make that correct with Heisenberg uncertainty theory?)
+        -> How? Which informations should be seen? Maybe flexible choosable from user?
+        -> Could collect data and the user can say which data he wants. As example he wants the position of every particle.
+    - add graphics of the simulation (with OpenGL)
+    - add movement of camera
+    - add time control?
+8. Performance and Bug fixing
+
+> Note that these steps go partwise together.
+
 
 
 
